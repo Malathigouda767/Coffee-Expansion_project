@@ -47,7 +47,7 @@ City 2: Delhi
 
 Highest estimated coffee consumers at 7.7 million.
 Highest total number of customers, which is 68.
-Average rent per customer is 330 (still under 500).
+Average rent per customer is 330 .
 
 City 3: Jaipur
 
